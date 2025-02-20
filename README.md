@@ -1,4 +1,4 @@
-# DEU Web Kayit Notifier 📢
+# DEU Ders Kayit Notifier 📢
 
 Bu Python botu, **Dokuz Eylül Üniversitesi (DEU) ders kayıt sistemini** takip ederek açılan dersleri otomatik olarak tespit eder ve WhatsApp ile bildirim gönderir.
 
